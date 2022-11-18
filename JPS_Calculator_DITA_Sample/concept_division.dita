@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_divide">
+    <title>What is Division?</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p> "Division" is a mathematical operation. It is the opposite of multiplication. The parts
+            in a division equation have special names as follows:</p>
+        <ul id="ul_i14_ngm_nvb">
+            <li><b>Dividend: </b> The number that is being divided</li>
+            <li><b>Divisor:</b>  The number by which the dividend is being divided</li>
+            <li><b>Quotient:</b>  The quotient is the result obtained in the division process</li>
+            <li><b>Remainder:  </b>Sometimes numbers cannot be divided exactly and there may be a
+                leftover number called the remainder</li>
+        </ul>
+        <p>Consider the simple division equation 8 &#xf7; 2 = 4. 8 is the dividend, 2 is the
+            divisor, and 4 is the quotient (there is no remainder).</p>
+        <p>Use the division (&#xf7;) button to express the multiplication operation in the <i>JPS
+                Calculator app</i>.</p>
+        <p>With the division process, you divide a number into groups.</p>
+    </conbody>
+</concept>

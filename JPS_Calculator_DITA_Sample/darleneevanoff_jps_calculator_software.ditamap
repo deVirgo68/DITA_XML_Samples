@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>JPS Calculator Application User Guide</title>
+    <topichead navtitle="Addition">
+        <topicref href="concept_addition.dita"/>
+        <topicref href="task_addition.dita"/>
+    </topichead>
+    <topichead navtitle="Subtraction">
+        <topicref href="concept_subtraction.dita"/>
+        <topicref href="task_subtraction.dita"/>
+    </topichead>
+    <topichead navtitle="Multiplication">
+        <topicref href="concept_multiplication.dita"/>
+        <topicref href="task_multiplication.dita"/>
+    </topichead>
+    <topichead navtitle="Division">
+        <topicref href="concept_division.dita"/>
+        <topicref href="task_division.dita"/>
+    </topichead>
+</map>

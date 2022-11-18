@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_subtraction">
+    <title>How to subtract numbers</title>
+    <shortdesc>Below you will find instructions for subtracting numbers using <i>JPS Calculator
+            app.</i></shortdesc>
+    <taskbody>
+        <prereq id="prereq_srj_vmv_lvb">
+            <p>To successfully subtract numbers, you must know what subtraction is. Refer to <xref
+                    href="concept_subtraction.dita"/> to learn about subtraction.</p>
+        </prereq>
+        <steps>
+            <step>
+                <cmd>Enter the first number.</cmd>
+            </step>
+            <step>
+                <cmd>Press the minus (-) button.</cmd>
+            </step>
+            <step>
+                <cmd>Enter the second number.</cmd>
+            </step>
+            <step>
+                <cmd>Press the equals (=) button.</cmd>
+            </step>
+        </steps>
+        <result id="result_kbz_cnv_lvb">
+            <p>The result from the subtraction is displayed.</p>
+        </result>
+        <example id="example_fd3_2nv_lvb"><b>Example:</b><p>You want to subtract 2 from 3. The
+                equation is 3 - 2 = 1.</p><table frame="none" rowsep="0" colsep="0"
+                id="table_szn_j41_4vb">
+                <tgroup cols="5" align="center">
+                    <colspec colname="c1" colnum="1" colwidth="1*"/>
+                    <colspec colname="c2" colnum="2" colwidth="1*"/>
+                    <colspec colname="c3" colnum="3" colwidth="1*"/>
+                    <colspec colname="c4" colnum="4" colwidth="1*"/>
+                    <colspec colname="c5" colnum="5" colwidth="1*"/>
+                    <tbody>
+                        <row>
+                            <entry><b>Enter <i>3</i></b></entry>
+                            <entry><b>Press <i>minus</i></b></entry>
+                            <entry><b>Enter <i>2</i></b></entry>
+                            <entry><b>Press <i>equals</i></b></entry>
+                            <entry><b>Result '<i>1</i>' displays</b></entry>
+                        </row>
+                        <row>
+                            <entry><image href="calc_three.jpg" id="image_iqj_5q1_4vb"
+                                    alt="3"/></entry>
+                            <entry><image href="calc_subtract.jpg" id="image_osw_5q1_4vb"
+                                    alt="-"/></entry>
+                            <entry><image href="calc_two.jpg" id="image_yxv_vq1_4vb"
+                                    alt="2"/></entry>
+                            <entry><image href="calc_equals.jpg" id="image_ebc_wq1_4vb"
+                                    alt="="/></entry>
+                            <entry><image href="calc_one.jpg" id="image_kgl_wq1_4vb"
+                                    alt="1"/></entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table></example>
+    </taskbody>
+</task>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_multiplication">
+    <title>What is Multiplication?</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p>"Multiplication" is a mathematical operation.  It is an action that is performed using 2
+            or more numbers called <b>factors</b>.  The result is called the <b>product</b>. </p>
+        <p>Multiplication is repeated addition. 3 + 3 + 3 = 9 in multiplication is represented as 3
+            x 3 = 9. Each number 3 is a factor and the result, or product is 9.</p>
+        <p>Use the multiplication (x) button to express the multiplication operation in the <i>JPS
+                Calculator app</i>.</p>
+        <p>With the multiplication process, you take 2 numbers and increase it to a larger
+            number.</p>
+    </conbody>
+</concept>
